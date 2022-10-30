@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Dishang H. Rana 👋
+
+# whoami  
+> Student passionate about Information Technology with an irrepressible desire to explore and learn new things. 
+
+- 🔭 I’m currently working on flutter framework.
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
