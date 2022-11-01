@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm Dishang H. Rana 👋</h1>
+### <h1 align='center'>Hi there, I'm Dishang H. Rana 👋</h1>
 
 ```bash
 #whoami  
