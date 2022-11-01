@@ -1,4 +1,4 @@
-### <h1 align='center'>Hi there, I'm Dishang H. Rana 👋</h1>
+### <h1 align='center'>Hi there, I'm Dishang H. Rana <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
 
 ```bash
 #whoami  
@@ -16,8 +16,11 @@
 
 ​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=thisisdishang&theme=github)
 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/thisisdishang/github-readme-stats)
 </details>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdishang" /></p>
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
