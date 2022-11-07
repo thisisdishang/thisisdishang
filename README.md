@@ -5,6 +5,9 @@
 > Student passionate about Information Technology with an irrepressible desire to explore and learn new things. 
 ```
 - 🔭 I’m currently working on flutter framework.
+- 🌱 I’m currently learning DSA,Dart
+- 📫 How to reach me:Instagram,Twitter
+- 😄 Pronouns:Dishu
 
 
 <details>
