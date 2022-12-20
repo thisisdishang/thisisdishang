@@ -19,7 +19,10 @@
 
 ​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=thisisdishang&theme=github)
 
- 
+<div align="justify">
+<img width="45%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/thisisdishang/github-readme-stats)
 </details>
 
