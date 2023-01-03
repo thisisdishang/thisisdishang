@@ -14,7 +14,7 @@
 
 
 > **I do socialize through** <br/>
-[<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/thisisdishang) [<img width='30px' src='https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk'>](https://twitter.com/thisisdishang) [<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYnS1hrpSdNhW1cXSDL5BdA6tiUjx15wgEQQ&usqp=CAU'>](https://www.facebook.com/Dishangkumar.Rana)
+[<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/thisisdishang) [<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYnS1hrpSdNhW1cXSDL5BdA6tiUjx15wgEQQ&usqp=CAU'>](https://www.facebook.com/Dishangkumar.Rana)
 
 <details>
   <summary><b>My Work Stats 👤📈</b></summary>
