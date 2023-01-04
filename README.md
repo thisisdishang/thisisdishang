@@ -10,7 +10,7 @@
 - 😄 Pronouns: Dishu
 
 > **I can code over**<br/>
-<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='30px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='30px'>
+<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'> 
 
 
 > **I do socialize through** <br/>
