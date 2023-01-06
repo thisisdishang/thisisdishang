@@ -19,20 +19,36 @@
 <details>
   <summary><b>My Work Stats 👤📈</b></summary>
   
-![thisisdishang Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=solarized_dark)
-![thisisdishang Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=solarized_dark)
-![thisisdishang Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=solarized_dark)
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=solarized_dark"/>
+</p>
+  
+## 📟 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=solarized_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=solarized_dark"/>
+</p>
+  
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisisdishang&show_icons=true&theme=solarized_dark" />&nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=solarized_dark" />
+</p>
+  
+<p align="center">
+  <img width="45%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages" />
+</p>
 
-​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=thisisdishang&theme=github)
-
-<div align="justify">
-<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/thisisdishang/github-readme-stats)
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=thisisdishang&theme=github"/>
+</p> 
+  
 </details>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdishang" /></p>
+
+
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
