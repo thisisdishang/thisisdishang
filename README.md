@@ -47,8 +47,7 @@
 </p> 
   
 </details>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdishang" /></p>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="thisisdishang" /></p>
 
 
 <!--
