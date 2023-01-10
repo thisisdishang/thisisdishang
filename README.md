@@ -43,7 +43,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=thisisdishang&theme=github"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=thisisdishang&theme=github-compact"/>
 </p> 
   
 </details>
