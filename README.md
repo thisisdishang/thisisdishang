@@ -31,14 +31,14 @@
 </p>
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisisdishang&show_icons=true&theme=solarized_dark" />&nbsp;
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thisisdishang&show_icons=true&theme=solarized_dark" />&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=solarized_dark" />
 </p>
   
 <p align="center">
-  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+  <img width="46%" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=react&border_radius=15&custom_title=Most-Used-Languages" />
 </p>
 
 ## 📈 Activity Graph
