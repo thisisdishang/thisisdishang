@@ -1,4 +1,5 @@
-### <h1 align='center'>Hi there, I'm Dishang H. Rana <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
+### <h1 align='center'>नमस्ते, I'm Dishang H. Rana <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
+### <h1 align='center'>કેમ છો? મજામાં!</h1>
 
 ```bash
 #whoami  
@@ -32,7 +33,7 @@
   
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thisisdishang&show_icons=true&theme=solarized_dark" />&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=solarized_dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=velocity" />
 </p>
   
 <p align="center">
@@ -52,7 +53,7 @@
   <a href="https://github.com//HarshPanchal18">@HarshPanchal18</a><br/>
   <a href="https://github.com//Dhruvil-07">@Dhruvil-07</a><br/>
   <a href="https://github.com//Rana01Harshiv">@Rana01Harshiv</a><br/>
-  <a href="https://github.com//Pratham-Makwana">@Pratham-Makwana</a>
+ 
   
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="thisisdishang" /></p>
 
