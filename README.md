@@ -14,8 +14,6 @@
 <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'> 
 
 
-> **I do socialize through** <br/>
-[<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/thisisdishang) [<img width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYnS1hrpSdNhW1cXSDL5BdA6tiUjx15wgEQQ&usqp=CAU'>](https://www.facebook.com/Dishangkumar.Rana)
 
 <details>
   <summary><b>My Work Stats 👤📈</b></summary>
