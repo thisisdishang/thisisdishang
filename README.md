@@ -6,7 +6,7 @@
 > Student passionate about Information Technology with an irrepressible desire to explore and learn new things. 
 ```
 - 🔭 I’m currently working on Flutter Framework.
-- 🌱 I’m currently learning Dart Language.
+- 🌱 I’m currently learning Dart, Python Language.
 - 📫 How to reach me: Instagram, Twitter
 - 😄 Pronouns: Dishu
 
