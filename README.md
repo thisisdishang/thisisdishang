@@ -45,7 +45,7 @@
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdishang&theme=github-compact"/>
 </p>
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
   
 </details>
