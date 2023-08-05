@@ -18,7 +18,7 @@
 <details>
   <summary><b>My Work Stats 👤📈</b></summary>
   
-## 💳 Github Profile Summary Card
+## 💳 GitHub Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=solarized_dark"/>
 </p>
@@ -43,7 +43,10 @@
 ## 📈 Activity Graph
 <p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdishang&theme=github-compact"/>
-</p> 
+</p>
+
+## 🏆GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
   
 </details>
 
