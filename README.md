@@ -11,7 +11,7 @@
 - 😄 Pronouns: Dishu
 
 > **I can code over**<br/>
-<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='30px'>  
+<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='26px'>  <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'>   
 
 
 
@@ -36,8 +36,8 @@
   
 <p align="center">
   <img width="46%" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />
+  <!--<br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
 </p>
 
 ## 📈 Activity Graph
