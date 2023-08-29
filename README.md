@@ -10,9 +10,29 @@
 - 📫 How to reach me: Instagram, Twitter
 - 😄 Pronouns: Dishu
 
-> **I can code over**<br/>
-<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='26px'>  <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'>   
+<!-- >  **I can code over** <br/>
+<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='26px'>  <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'>-->
 
+## I Can Code Over
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=7&i=c,cpp,dart,py,php,java,dotnet" />
+  </a>
+</p>
+
+## Familiar Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=6&i=mysql,sqlite,firebase" />
+  </a>
+</p>
+
+## Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=7&i=git,github,androidstudio,idea,gradle,vscode,visualstudio,flutter,flask" />
+  </a>
+</p>
 
 
 <details>
