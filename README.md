@@ -1,9 +1,13 @@
-### <h1 align='center'>नमस्ते, I'm Dishang H. Rana <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
+<p align="center">
+  <img src="https://github.com/thisisdishang/thisisdishang/assets/91554337/bd119281-011b-41bb-a008-32fcca7ed75c" height="250"/>
+</p>
+
+### <h1 align='center'>नमस्ते, I'm Dishang H. Rana </h1>
 ### <h1 align='center'>કેમ છો? મજામાં!</h1>
 
 ```bash
 #whoami  
-> Student passionate about Information Technology with an irrepressible desire to explore and learn new things. 
+> Diligent student and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation. 
 ```
 - 🔭 I’m currently working on Flutter Framework.
 - 🌱 I’m currently learning Dart, Python Language.
