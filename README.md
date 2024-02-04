@@ -2,12 +2,12 @@
   <img src="https://github.com/thisisdishang/thisisdishang/assets/91554337/bd119281-011b-41bb-a008-32fcca7ed75c" height="250"/>
 </p>
 
-### <h1 align='center'>नमस्ते, I'm Dishang H. Rana </h1>
+### <h1 align='center'>नमस्ते, I'm Dishang H. Rana 🇮🇳</h1>
 ### <h1 align='center'>કેમ છો? મજામાં!</h1>
 
 ```bash
 #whoami  
-> Diligent student and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation. 
+> Diligent and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation and ready for team collaboration. 
 ```
 - 🔭 I’m currently working on Flutter Framework.
 - 🌱 I’m currently learning Dart, Python Language.
@@ -34,7 +34,7 @@
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,androidstudio,idea,gradle,vscode,visualstudio,flutter,flask" />
+    <img src="https://skillicons.dev/icons?perline=7&i=git,github,androidstudio,idea,gradle,anaconda,bash,vscode,visualstudio,flutter,flask,bootstrap" />
   </a>
 </p>
 
