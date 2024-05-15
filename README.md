@@ -10,9 +10,10 @@
 > Diligent and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation and ready for team collaboration. 
 ```
 - 🔭 I’m currently working on Flutter Framework.
-- 🌱 I’m currently learning Dart, Python Language.
+- 🌱 I’m currently learning Dart, Python, Java Language.
 - 📫 How to reach me: Instagram, Twitter
 - 😄 Pronouns: Dishu
+- ⚡ Fun fact: Autophile
 
 <!-- >  **I can code over** <br/>
 <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='26px'>  <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'>-->
@@ -74,11 +75,14 @@
   
 </details>
 
-> **Our Community Member**<br/>
+> **JBU Community Members :-**<br/>
   <a href="https://github.com//HarshPanchal18">@HarshPanchal18</a><br/>
+  <a href="https://github.com/Pratham-Makwana">@Pratham-Makwana</a><br/>
   <a href="https://github.com//Dhruvil-07">@Dhruvil-07</a><br/>
+  <a href="https://github.com/haneypatel7">@haneypatel7</a><br/>
   <a href="https://github.com//Rana01Harshiv">@Rana01Harshiv</a><br/>
- 
+  
+
   
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blue&style=for-the-badge" alt="thisisdishang" /></p>
 
