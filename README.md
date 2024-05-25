@@ -45,7 +45,7 @@
   
 ## 💳 GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=chartreuse_dark"/>
 </p>
   
 ## 📟 GitHub Stats
@@ -55,12 +55,12 @@
 </p>
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thisisdishang&show_icons=true&theme=velocity" />&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=velocity" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=thisisdishang&show_icons=true&theme=midnight-purple" />&nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=chartreuse-dark" />
 </p>
   
 <p align="center">
-  <img width="46%" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=donut&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
   <!--<br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
 </p>
