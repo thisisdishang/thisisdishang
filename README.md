@@ -21,7 +21,7 @@
 ## I Can Code Over
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=c,cpp,dart,py,php,java,dotnet" />
+    <img src="https://skillicons.dev/icons?perline=8&i=c,cpp,dart,py,php,java,dotnet" />
   </a>
 </p>
 
@@ -41,14 +41,14 @@
 
 
 <details>
-  <summary><b>My Work Stats 👤📈</b></summary>
+  <summary><b>My Work Stats 🧑🏻‍💻♥️</b></summary>
   
-## 💳 GitHub Profile Summary Card
+## 🪪 GitHub Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=chartreuse_dark"/>
 </p>
   
-## 📟 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=github_dark"/>
@@ -71,7 +71,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+[![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
   
 </details>
 
