@@ -75,12 +75,14 @@
   
 </details>
 
+<!--
 > **JBU Community Members :-**<br/>
   <a href="https://github.com//HarshPanchal18">@HarshPanchal18</a><br/>
   <a href="https://github.com/Pratham-Makwana">@Pratham-Makwana</a><br/>
   <a href="https://github.com//Dhruvil-07">@Dhruvil-07</a><br/>
   <a href="https://github.com/haneypatel7">@haneypatel7</a><br/>
   <a href="https://github.com//Rana01Harshiv">@Rana01Harshiv</a><br/>
+-->
   
 
   
