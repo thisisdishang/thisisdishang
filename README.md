@@ -3,7 +3,7 @@
 </p>
 
 ### <h1 align='center'>नमस्ते, I'm Dishang H. Rana 🇮🇳</h1>
-### <h1 align='center'>કેમ છો? મજામાં!</h1>
+### <h2 align='center'>કેમ છો? મજામાં!</h2>
 
 ```bash
 #whoami  
@@ -74,19 +74,8 @@
 [![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
   
 </details>
-
-<!--
-> **JBU Community Members :-**<br/>
-  <a href="https://github.com//HarshPanchal18">@HarshPanchal18</a><br/>
-  <a href="https://github.com/Pratham-Makwana">@Pratham-Makwana</a><br/>
-  <a href="https://github.com//Dhruvil-07">@Dhruvil-07</a><br/>
-  <a href="https://github.com/haneypatel7">@haneypatel7</a><br/>
-  <a href="https://github.com//Rana01Harshiv">@Rana01Harshiv</a><br/>
--->
-  
-
-  
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blue&style=for-the-badge" alt="thisisdishang" /></p>
+    
+<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blueviolet&style=for-the-badge&abbreviated=true" alt="thisisdishang" /></p>
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
