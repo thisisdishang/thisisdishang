@@ -9,8 +9,8 @@
 #whoami  
 > Diligent and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation and ready for team collaboration. 
 ```
-- 🔭 I’m currently working on Flutter Framework.
-- 🌱 I’m currently learning Dart, Python, Java Language.
+- 🔭 I’m currently working on Flutter Framework and .NET Framework.
+- 🌱 I’m currently learning C#, Java Language.
 - 📫 How to reach me: Instagram, Twitter
 - 😄 Pronouns: Dishu
 - ⚡ Fun fact: Autophile
@@ -70,12 +70,19 @@
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdishang&theme=github-compact"/>
 </p>
 
+## 🎖️ Open Source Software Rank
+<p align="center">
+	<img src="https://ossrank.com/widget/788773"/>
+</p>
+
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
   
 </details>
     
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blueviolet&style=for-the-badge&abbreviated=true" alt="thisisdishang" /></p>
+
+
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
