@@ -18,29 +18,51 @@
 <!-- >  **I can code over** <br/>
 <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='32px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='32px'> <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='26px'>  <img src='https://logodix.com/logo/1769993.jpg' width='32px'> <img src='https://logodix.com/logo/2122129.png' width='32px'>-->
 
-## I Can Code Over
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=8&i=c,cpp,dart,py,php,java,dotnet" />
-  </a>
+<h2 align='center'>Languages</h2>
+<p align="center">
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/DotNet.svg" />
 </p>
 
-## Familiar Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=mysql,sqlite,firebase" />
-  </a>
+<h2 align='center'>Database</h2>
+<p align="center">
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" />
 </p>
 
-## Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,androidstudio,idea,gradle,anaconda,bash,vscode,visualstudio,flutter,flask,bootstrap" />
-  </a>
+<h2 align='center'>Development</h2>
+<p align="center">
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" />	
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
+</p>
+
+<h2 align='center'>Tools</h2>
+<p align="center">
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />  
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
+  <img width="50px" src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
+<h2 align='center'>Web Technologies</h2>
+<p align="center">
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" />	
 </p>
 
 
-<details>
+<details align='center'>
   <summary><b>My Work Stats 🧑🏻‍💻♥️</b></summary>
   
 ## 🪪 GitHub Profile Summary Card
@@ -80,7 +102,7 @@
   
 </details>
     
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blueviolet&style=for-the-badge&abbreviated=true" alt="thisisdishang" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blueviolet&style=for-the-badge&abbreviated=true" alt="thisisdishang" /></p>
 
 
 
