@@ -10,8 +10,8 @@
 > Diligent and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation and ready for team collaboration. 
 ```
 - 🔭 I’m currently working on Flutter Framework and .NET Framework.
-- 🌱 I’m currently learning C#, Java Language.
-- 📫 How to reach me: Instagram, Twitter
+- 🌱 I’m currently learning Dart, C#, Java Languages.
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: Dishu
 - ⚡ Fun fact: Autophile
 
@@ -72,25 +72,26 @@
   
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=github_dark"/>
-</p>
-  
-<p align="center">
+  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=github_dark"/>-->
+  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=github_dark"/>-->
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=thisisdishang&show_icons=true&theme=midnight-purple" />&nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=chartreuse-dark" />
+  <img width="48.5%" src="https://github-readme-streak-stats-eight.vercel.app/?user=thisisdishang&theme=chartreuse-dark"/>
 </p>
   
 <p align="center">
-  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=donut&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+  <!--<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=chartreuse-dark" /> -->
+</p>
+  
+<p align="center">
+  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=compact&langs_count=20&theme=dark&custom_title=Top%20languages>
   <!--<br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
 </p>
 
-## 📈 Activity Graph
+<!--## 📈 Activity Graph
 <p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdishang&theme=github-compact"/>
-</p>
+</p>-->
 
 ## 🎖️ Open Source Software Rank
 <p align="center">
