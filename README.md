@@ -6,11 +6,11 @@
 ### <h2 align='center'>કેમ છો? મજામાં!</h2>
 
 ```bash
-#whoami  
-> Diligent and enthusiastic coder, driven by a passion for technology and a desire to push the boundaries of innovation and ready for team collaboration. 
+#Fearless  
+> "Don't be afraid to give up the good to go for the great." 
 ```
-- 🔭 I’m currently working on Flutter Framework and .NET Framework.
-- 🌱 I’m currently learning Dart, C#, Java Languages.
+- 🔭 I’m currently working on Spring MVC.
+- 🌱 I’m currently learning Spring, SpringBoot, SpringMVC.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: Dishu
 - ⚡ Fun fact: Autophile
@@ -39,17 +39,20 @@
 
 <h2 align='center'>Development</h2>
 <p align="center">
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" />	
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
 </p>
 
 <h2 align='center'>Tools</h2>
 <p align="center">
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Light.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" />	
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />  
-  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
   <img width="50px" src="https://skillicons.dev/icons?i=anaconda" />
 </p>
@@ -98,14 +101,16 @@
 	<img src="https://ossrank.com/widget/788773"/>
 </p>
 
+<!--
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=thisisdishang&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+-->
   
 </details>
-    
+
+<!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thisisdishang&color=blueviolet&style=for-the-badge&abbreviated=true" alt="thisisdishang" /></p>
-
-
+-->
 
 <!--
 **thisisdishang/thisisdishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
