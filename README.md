@@ -9,7 +9,7 @@
 #Fearless  
 > "Don't be afraid to give up the good to go for the great." 
 ```
-- 🔭 I’m currently working on Spring MVC.
+- 🔭 I’m currently working on Spring MVC, SpringBoot.
 - 🌱 I’m currently learning Spring, SpringBoot, SpringMVC.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: Dishu
@@ -50,6 +50,7 @@
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Light.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
+  <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" />	
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
   <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />  
@@ -61,7 +62,9 @@
 <p align="center">
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" />	
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" />
 </p>
 
 
